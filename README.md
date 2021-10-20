@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Ruan 👋
 
 - 🌱 I am an aspiring data scientist/machine learning engineer
+- 🧠 I love machine learning and AI
 - 💬 I mainly code in Python
+- 📚 I mainly use [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Tensorflow](https://www.tensorflow.org/) and [scikit-learn](https://scikit-learn.org/stable/)
 - 🔭 I’m currently working on portfolio management using deep reinforcement learning
 - 👯 I’m looking to collaborate more on open-source projects
 
 [![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruankie&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ruan-pretorius/)
 <!--
 **ruankie/ruankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
