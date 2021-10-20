@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I am an aspiring data scientist/machine learning engineer
+- 💬 I mainly code in Python
+- 🔭 I’m currently working on portfolio management using deep reinforcement learning
+- 👯 I’m looking to collaborate more on open-source projects
+
+[![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruankie&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ruankie/ruankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
