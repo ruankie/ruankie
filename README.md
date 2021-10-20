@@ -2,10 +2,11 @@
 
 - 🌱 I am an aspiring data scientist/machine learning engineer
 - 🧠 I love machine learning and AI
-- 💬 I mainly code in Python
-- 📚 I mainly use [Pandas](https://pandas.pydata.org/), [Numpy](https://numpy.org/), [Tensorflow](https://www.tensorflow.org/) and [scikit-learn](https://scikit-learn.org/stable/)
 - 🔭 I’m currently working on portfolio management using deep reinforcement learning
 - 👯 I’m looking to collaborate more on open-source projects
+
+**Skills**:
+Python | Pandas | Numpy | Tensorflow | scikit-learn | Docker | SQL
 
 [![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruankie&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
