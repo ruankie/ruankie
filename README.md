@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruan 👋
 
-- 🌱 I am an aspiring data scientist/machine learning engineer
+- 🖥 I am a data scientist
 - 🧠 I love machine learning and AI
 - 🔭 I’m currently working on portfolio management using deep reinforcement learning
 - 👯 I’m looking to collaborate more on open-source projects
