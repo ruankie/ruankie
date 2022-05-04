@@ -14,6 +14,8 @@ Python | Pandas | Numpy | Tensorflow | scikit-learn | Docker | SQL
 [<img src='icons/linkedin-dark.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ruan-pretorius/#gh-light-mode-only)
 [<img src='icons/medium-light.svg' alt='linkedin' height='40'>](https://medium.com/@ruankie#gh-dark-mode-only)
 [<img src='icons/medium-dark.svg' alt='linkedin' height='40'>](https://medium.com/@ruankie#gh-light-mode-only)
+[<img src='icons/home-light.svg' alt='linkedin' height='35'>](https://ruankie.github.io/#gh-dark-mode-only)
+[<img src='icons/home-dark.svg' alt='linkedin' height='35'>](https://ruankie.github.io/#gh-light-mode-only)
 <!--
 **ruankie/ruankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
