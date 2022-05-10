@@ -5,9 +5,19 @@
 - 🔭 I’m currently working on portfolio management using deep reinforcement learning
 - 👯 I’m looking to collaborate more on open-source projects
 
-**Skills**:
-Python | Pandas | Numpy | Tensorflow | scikit-learn | Docker | SQL
+### Top Tools:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql&style=for-the-badge)
 
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&style=for-the-badge)
+![Sklearn](https://img.shields.io/badge/-Sklearn-000?&logo=scikitlearn&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy&style=for-the-badge)
+
+### GitHub Stats:
 [![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruankie&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='icons/linkedin-light.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ruan-pretorius/#gh-dark-mode-only)
