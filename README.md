@@ -26,6 +26,9 @@
 [<img src='icons/medium-dark.svg' alt='linkedin' height='40'>](https://medium.com/@ruankie#gh-light-mode-only)
 [<img src='icons/home-light.svg' alt='linkedin' height='35'>](https://ruankie.github.io/#gh-dark-mode-only)
 [<img src='icons/home-dark.svg' alt='linkedin' height='35'>](https://ruankie.github.io/#gh-light-mode-only)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6D8Q0K)
+
 <!--
 **ruankie/ruankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
