@@ -11,7 +11,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoftsqlserver&style=for-the-badge)
 
-![LangChain](https://img.shields.io/badge/-🦜 LangChain-000?&logo=langchain&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-🦜LangChain-000?&logo=langchain&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&style=for-the-badge)
 ![Sklearn](https://img.shields.io/badge/-Sklearn-000?&logo=scikitlearn&style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-000?&logo=xgboost&style=for-the-badge)
