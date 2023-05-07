@@ -3,7 +3,7 @@
 - 🖥 I am a data scientist
 - 🧠 I love machine learning and AI
 - ☕ I turn coffee into AI research and open-source ML tools.
-- 🌱 I’m currently playing wth AutoGPT and LangChain
+- 🌱 I’m currently playing with AutoGPT and LangChain
 
 ### Top Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=for-the-badge)
