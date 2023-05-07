@@ -2,7 +2,7 @@
 
 - 🖥 I am a data scientist
 - 🧠 I love machine learning and AI
-- 🌱 I’m currently learning about and playing wth AutoGPT and LangChain
+- 🌱 I’m currently playing wth AutoGPT and LangChain
 
 ### Top Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=for-the-badge)
@@ -11,11 +11,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoftsqlserver&style=for-the-badge)
 
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-🦜LangChain-000?&logo=langchain&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&style=for-the-badge)
 ![Sklearn](https://img.shields.io/badge/-Sklearn-000?&logo=scikitlearn&style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-000?&logo=xgboost&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy&style=for-the-badge)
+<!-- ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy&style=for-the-badge) -->
 
 ### GitHub Stats:
 [![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruankie&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,7 +27,7 @@
 [<img src='icons/linkedin-dark.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ruan-pretorius/#gh-light-mode-only)
 [<img src='icons/medium-light.svg' alt='linkedin' height='30'>](https://medium.com/@ruankie#gh-dark-mode-only)
 [<img src='icons/medium-dark.svg' alt='linkedin' height='30'>](https://medium.com/@ruankie#gh-light-mode-only)
-[<img src="icons/BuyMeACoffee_dark@2x.png" alt="ko-fi" width="180"/>](https://ko-fi.com/N4N6D8Q0K)
+[<img src="icons/BuyMeACoffee_dark@2x.png" alt="ko-fi" width="150"/>](https://ko-fi.com/N4N6D8Q0K)
 
 <!--
 **ruankie/ruankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
