@@ -2,8 +2,7 @@
 
 - 🖥 I am a data scientist
 - 🧠 I love machine learning and AI
-- 🔭 I’m currently working on portfolio management using deep reinforcement learning
-- 👯 I’m looking to collaborate more on open-source projects
+- 🌱 I’m currently learning about and playing wth AutoGPT and LangChain
 
 ### Top Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=for-the-badge)
