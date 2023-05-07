@@ -2,6 +2,7 @@
 
 - 🖥 I am a data scientist
 - 🧠 I love machine learning and AI
+- ☕ I turn coffee into AI research and open-source ML tools.
 - 🌱 I’m currently playing wth AutoGPT and LangChain
 
 ### Top Tools:
