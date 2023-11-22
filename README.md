@@ -7,7 +7,7 @@
 
 ### Top Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoftsqlserver&style=for-the-badge)
