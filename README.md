@@ -7,7 +7,7 @@
 
 ### Top Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=for-the-badge)
 
@@ -16,7 +16,8 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&style=for-the-badge)
 ![Sklearn](https://img.shields.io/badge/-Sklearn-000?&logo=scikitlearn&style=for-the-badge)
 
-<!-- 
+<!--
+More badges from: https://dev.to/envoy_/150-badges-for-github-pnk
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=microsoftsqlserver&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy&style=for-the-badge)
