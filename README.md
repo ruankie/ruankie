@@ -26,7 +26,7 @@ More badges from: https://dev.to/envoy_/150-badges-for-github-pnk
 
 ### 📊 My GitHub Stats
 
-[![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruankie&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruankie&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true&hide_title=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 Connect with Me
 
