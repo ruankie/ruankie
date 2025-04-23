@@ -24,9 +24,9 @@ More badges from: https://dev.to/envoy_/150-badges-for-github-pnk
 ![XGBoost](https://img.shields.io/badge/-XGBoost-000?&logo=xgboost&style=for-the-badge)
 -->
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
-[![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruankie&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruankie&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 Connect with Me
 
