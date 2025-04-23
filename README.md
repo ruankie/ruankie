@@ -1,11 +1,11 @@
-### Hi there, I'm Ruan 👋
+### 👋 Hi there, I'm Ruan
 
-- 🖥 I am a data scientist
-- 🧠 I love machine learning and AI
-- ☕ I turn coffee into AI
-- 🌱 I’m currently playing with GenAI and Agents
+- 🧑‍💻 Data scientist who builds solutions wih ML, GenAI, and agents
+- 🧃 Fuelled by curiosity, code, and caffeine
+- 🌱 Currently exploring LLMs, evals, and AI observability
 
-### Top Tools:
+### 🛠 My Toolbox
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
@@ -24,8 +24,11 @@ More badges from: https://dev.to/envoy_/150-badges-for-github-pnk
 ![XGBoost](https://img.shields.io/badge/-XGBoost-000?&logo=xgboost&style=for-the-badge)
 -->
 
-### GitHub Stats:
+### 📊 GitHub Stats
+
 [![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruankie&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🌐 Connect with Me
 
 [<img src='icons/home-light.svg' alt='linkedin' height='25'>](https://ruankie.github.io/#gh-dark-mode-only)
 [<img src='icons/home-dark.svg' alt='linkedin' height='25'>](https://ruankie.github.io/#gh-light-mode-only)
@@ -33,7 +36,11 @@ More badges from: https://dev.to/envoy_/150-badges-for-github-pnk
 [<img src='icons/linkedin-dark.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ruan-pretorius/#gh-light-mode-only)
 [<img src='icons/medium-light.svg' alt='linkedin' height='30'>](https://medium.com/@ruankie#gh-dark-mode-only)
 [<img src='icons/medium-dark.svg' alt='linkedin' height='30'>](https://medium.com/@ruankie#gh-light-mode-only)
+
+<!--
+Sponsor links
 [<img src="icons/BuyMeACoffee_dark@2x.png" alt="ko-fi" width="150"/>](https://ko-fi.com/N4N6D8Q0K)
+-->
 
 <!--
 **ruankie/ruankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
